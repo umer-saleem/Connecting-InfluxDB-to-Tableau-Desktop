@@ -24,7 +24,7 @@ Tableau is an extremely essential tool used for data visualisation. It helps pro
 * If there is no error, means the setup is successful!!.
 
 ## 2. Creating database in InfluxDB
-Go to the "Importing CSV Data to InfluxDB Measurement.ipynb" in the repository and follow the python code for creating database, measurement and inserting data into the influxdb.
+Go to the "Importing CSV Data to InfluxDB Measurement.ipynb" notebook in the repository and follow the python code for creating database, measurement and inserting data into the influxdb.
 
 ## 3. Verifying the Data Stored in InfluxDB
 
