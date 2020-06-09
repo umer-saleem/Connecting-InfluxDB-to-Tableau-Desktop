@@ -11,6 +11,7 @@ Tableau is an extremely essential tool used for data visualisation. It helps pro
 
 * Python 3.7
 * Windows 64-Bit (Recommended)
+* pip3 install -r requirements.txt
 
 # Steps:
 ## 1. Setting Up the InfluxDB (Windows 32-bit/64-bit)
